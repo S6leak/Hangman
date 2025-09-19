@@ -1,0 +1,4 @@
+english-words==2.0.2
+pygame==2.6.1
+pyjokes==0.8.3
+PythonTurtle==0.3.2
